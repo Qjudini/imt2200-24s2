@@ -3,8 +3,8 @@
 
 ### Profesor: Rodrigo A. Carrasco
 
-Repositorio del curso IMT2200 Introducción a la Ciencia de Datos.
-Acá está disponible el material del curso tanto para las clases como para las tareas o trabajos a desarrollar durante el semestre.
+Repositorio del curso IMT2200 Introducción a la Ciencia de Datos, Segundo semestre, 2024.
+Acá estará disponible el material del curso tanto para las clases, como para las actividades, tareas y trabajos a desarrollar durante el semestre.
 
 ## Actualizaciones
 
